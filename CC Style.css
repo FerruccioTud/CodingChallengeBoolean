@@ -1,0 +1,72 @@
+/* Sfondo e Box */
+body{
+  background-image: url(file:///C:/Users/Ferruccio/Desktop/BOOOLEEEEan/Esercizio%20PreColloquio/Images/background.jpg);
+  background-size: 1920px 1200px;
+  background-repeat: no-repeat;
+}
+#Container{
+  width: 1200px;
+  height: 800px;
+  margin: 20px 360px 1px 360px;
+  background-color: rgba(28, 28, 28, 0.75);
+  border-radius: 10px;
+  padding: 100px;
+  box-sizing: border-box;
+}
+/* Nav e Logo */
+.ButtonsBG{
+  background-color: #00ff00;
+  padding: 10px;
+}
+.logo{
+  width: 220px;
+  height: 110px;
+  margin-top: auto;
+}
+.logoText{
+  font-size: 30px;
+  font-family: Arial;
+  font-weight: bold;
+  color: #00ff00;
+}
+/* Corpo e Checboxes */
+.CheckText{
+  font-size: 28px;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+}
+.CheckDescription{
+  font-size: 16px;
+  font-family: Arial;
+  color: white;
+}
+.Checkbox1{
+  margin-top: 20px;
+  }
+  #ChargeStatus1{
+    background-color: #deb887;
+    padding: 10px;
+    border-radius: 5px;
+    width: 30%;
+    height: 10px;
+  }
+.Checkbox2{
+    margin-top: 20px;
+    }
+  #ChargeStatus2{
+    background-color: #6b8e23;
+    padding: 10px;
+    border-radius: 5px;
+    width:50%;
+    height: 10px;
+  }
+  .Checkbox3{
+        margin-top: 20px;
+    }
+    #ChargeStatus3{
+      background-color: #ff6347;
+      padding: 10px;
+      border-radius: 5px;
+      width:15%;
+      height: 10px;
